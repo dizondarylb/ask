@@ -1,5 +1,5 @@
 # Ask anything!
-Ask anything to @dizondarylb
+Ask anything to <a href="https://github.com/dizondarylb">@dizondarylb</a>
 
 If you have suggestion, concern or questions, feel free to <a href="https://github.com/dizondarylb/ask/issues/new">create an issue</a>.
 
